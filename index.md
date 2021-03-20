@@ -1,6 +1,6 @@
 <HTML>
   <HEAD>
-    <TITLE>DATA SCIENCE PROJECTS</TITLE>
+    # DATA SCIENCE PROJECTS 
     <META NAME="seo" CONTENT="Exploratory data analysis, Feature engineering, Data Preprocessing, Model Building">
       <META NAME="geo.position" CONTENT="latitude; longitude">
       <META NAME="geo.placename" CONTENT="Place Name">
@@ -14,7 +14,7 @@
       page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
     </p>
     					
-    <a href="https://github.com/Sneha1-1/Projects-Data-Analysis/new/main">Repository </a>
+    <a href="https://github.com/Sneha1-1/Projects-Data-Analysis/new/main/">Repository </a>
     
   </BODY>
 </HTML>
