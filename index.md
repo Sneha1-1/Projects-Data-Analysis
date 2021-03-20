@@ -1,6 +1,10 @@
 <HTML>
   <HEAD>
-  <title
+    <TITLE>DATA SCIENCE PROJECTS</TITLE>
+    <META NAME="seo" CONTENT="Exploratory data analysis, Feature engineering, Data Preprocessing, Model Building">
+      <META NAME="geo.position" CONTENT="latitude; longitude">
+      <META NAME="geo.placename" CONTENT="Place Name">
+      <META NAME="geo.region" CONTENT="Country Subdivision Code">
   </HEAD>
   
   <BODY>
